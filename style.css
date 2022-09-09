@@ -45,3 +45,13 @@ background-image: linear-gradient(to bottom, magenta 0%, rgb(224, 75, 224)100%);
 border: none;
 box-shadow: 5px 5px 10px lightgray;
 }
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+    text-decoration: none;
+}
+footer a{
+    text-decoration: none;
+}
